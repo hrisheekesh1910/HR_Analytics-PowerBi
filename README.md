@@ -1,4 +1,4 @@
-## HR Analysis Project
+## HR Analytics Project
 
 ### Objective:
 
