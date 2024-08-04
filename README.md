@@ -1,5 +1,9 @@
 ## HR Analysis Project
 
+### Objective:
+
+Help an organization to improve employee performance and improve employee retention(reduce attrition) by creating a HR Analytics dashboard.
+
 ### Key Components of the Power BI Dashboard:
 
 1. **Distribution of Employee Attrition by Education Level:**
@@ -40,6 +44,4 @@
     - The average tenure of employees, providing insight into employee loyalty and satisfaction.
 
 
-### Objective:
 
-The Power BI dashboard provides a centralized platform for HR and management teams to explore critical data related to employee turnover and demographics. By visualizing this data, the dashboard aids in identifying trends, understanding the causes of attrition, and implementing strategies to enhance employee retention, satisfaction, and overall workplace environment.
